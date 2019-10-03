@@ -1,0 +1,7 @@
+﻿  FiFo.cpp
+C:\Users\tecke\Source\Repos\FiFoRSACryptography\FiFoRSACryptography\RSA.h(93,11): warning C4244: 'initializing': conversion from 'ull' to 'char', possible loss of data
+C:\Users\tecke\Source\Repos\FiFoRSACryptography\FiFoRSACryptography\FiFo.h(341,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tecke\Source\Repos\FiFoRSACryptography\FiFoRSACryptography\FiFo.h(352,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tecke\Source\Repos\FiFoRSACryptography\FiFoRSACryptography\FiFo.cpp(4,37): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  FiFo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FiFoRSACryptography.vcxproj -> C:\Users\tecke\Source\Repos\FiFoRSACryptography\Debug\FiFoRSACryptography.exe
